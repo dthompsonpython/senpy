@@ -10,7 +10,7 @@ You can run the tests using "python senpy <testname>" in the root directory. It'
   
 ### Example:
 
-'''python senpy.py examples'''
+```python senpy.py examples```
 
 Passing dojo/dojo.py:
 
