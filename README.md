@@ -14,9 +14,11 @@ You can run the tests using "python senpy <testname>" in the root directory. It'
 
 Passing dojo/dojo.py:
 
+```
 def test_function():
   return True
-  
+```
+
 ## Why do my things get deleted?
 
 The best way to get better at coding is to... code a lot. I usually don't get things right the first time I write them, and I'd like to get to the point where I can do things like implement a graph or red / black tree correctly the first time without screwing up syntax or forgetting things. This will help build that muscle memory and test retention
